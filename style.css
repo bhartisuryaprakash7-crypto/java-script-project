@@ -1,0 +1,76 @@
+
+.main{
+  display:flex;
+  padding-left: 20px;
+  padding-top: 20px;
+
+}
+#form{
+  padding-bottom:20px ;
+  margin-left:600px;
+  margin-top: 100px;
+}
+#h3{
+  padding-left: 10px;
+}
+#h5{
+  padding-left: 30px; 
+}
+#h4{
+  width: 120px;
+  background-color: rgb(148, 157, 178);
+  color: rgba(157, 24, 26, 0.688);
+}
+#h6{
+  margin-left: 50px;
+}
+#p{
+  background-image: url("https://www.shutterstock.com/image-vector/elegant-poker-table-pattern-playing-600nw-2611626469.jpg");
+}
+
+#card{
+  max-width: 300px;
+  padding-top:1px ;
+  padding-left: 15px;
+  padding-bottom:1px;
+  padding-right:10px;
+  background-color:rgba(33, 16, 16, 0.625);
+   color: rgb(56, 251, 2);
+   margin-top: 40px;
+   margin-left:500px ;
+   border-radius: 10%;
+   background-image: url("https://i.pinimg.com/474x/26/8c/e9/268ce9d2e4e1333111957e085971b8ad.jpg");
+  }
+#img{
+  background-color:rgb(0, 153, 255);
+  width: 100px;
+  height: 100px;
+  border-radius:50%;
+  margin-left: 70px;
+  overflow: hidden;
+}
+#img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.bg-video{
+            width: 50%;
+            height: 50%;
+            object-fit: cover;
+            z-index: -1;
+        }
+#nitish{
+   display: flex;
+   justify-content: end;
+    /* max-width: 500px; */
+    max-height: 500px;
+}
+#nitish input{
+  width: 150px;
+  padding:5px;
+  margin: 5px;
+}
+body{
+    background-color: black;
+}
